@@ -1,4 +1,4 @@
-# Day 7 - What's Under the Christmas Tree? (Networking)
+# Day 8 - What's Under the Christmas Tree? (Networking)
 
 1. When was Snort created? `1998`.
 
