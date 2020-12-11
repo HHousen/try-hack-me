@@ -1,4 +1,4 @@
-# Day 8 - Anyone can be Santa! (Networking)
+# Day 9 - Anyone can be Santa! (Networking)
 
 1. Question #1: Name the directory on the FTP server that has data accessible by the "anonymous" user. Run `ftp 10.10.42.118` and enter username `anonymous`. Run `ls` to find `public` has permissions `drwxrwxrwx` and is owned by `65534`.
 
